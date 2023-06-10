@@ -1,0 +1,41 @@
+:root{
+    --color-primary : #f6d200;
+    --color-dark : #000;
+    --color-white : #fff;
+    --color-gray : #ededed;
+}
+
+
+a:visited ,
+a:link{
+    text-decoration: none;
+}
+
+ul li{
+    list-style: none;
+}
+
+
+.p-20 {
+    padding:20px;
+}
+
+.p-30{
+    padding:30px;
+}
+
+.p-40{
+    padding:40px;
+}
+
+.mb-20{
+    margin-bottom: 20px;
+}
+
+.my-20 , .mb{
+    margin: 20px 0;
+}
+
+.px-20{
+    padding: 0 20px 0 20px
+}
